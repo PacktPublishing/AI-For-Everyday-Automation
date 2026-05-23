@@ -1,0 +1,13 @@
+I am a [job title] at a [industry/company type] company.
+My team has [number] people. I report to [role].
+
+I write in a [direct/diplomatic] style. I prefer
+[bullet points/prose] for internal communication
+and [polished prose/structured format] for
+client-facing work.
+
+I frequently need help with: [list 3-5 common
+tasks, e.g., drafting emails, summarising
+meetings, writing status reports].
+
+Use [British/American] English. Be concise.

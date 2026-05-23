@@ -1,0 +1,9 @@
+Recommended Google Drive Folder Structure:
+
+Meeting Packets/      - Ch4: structured meeting summaries
+Research/             - Ch5: research briefs
+Status Reports/       - Ch6: weekly status reports
+Content/              - Ch9: LinkedIn posts, announcements, newsletter drafts
+Templates/            - Ch6: prompt chain templates, document outlines
+Style Bank/           - Ch9: your best content examples for AI style reference
+Newsletter Drafts/    - Ch9: draft newsletter sections
