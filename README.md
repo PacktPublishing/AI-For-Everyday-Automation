@@ -1,10 +1,31 @@
-# AI For Everyday Automation — Ready-to-Use Skills
+# AI For Everyday Automation — Ready-to-Use AI Skills for Claude, ChatGPT & Perplexity
 
-**Companion to *AI For Everyday Automation* by Dipankar Sarkar, published by Packt.**
+> Automate email, meetings, research, reports, tasks, data, and content with AI — no coding required.
 
-This collection contains every workflow from the book, packaged as **skills** you can install in Claude, ChatGPT, or Perplexity in under two minutes. Once installed, they work automatically — just talk to your AI tool naturally and the right skill kicks in.
+[![Get the book on Amazon](https://img.shields.io/badge/📕_Book-Buy_on_Amazon-FF9900)](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)
+[![Author: Dipankar Sarkar](https://img.shields.io/badge/✍️_Author-Dipankar_Sarkar-0A66C2)](https://www.dipankar.name)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**AI For Everyday Automation is a free collection of 10 ready-to-use AI skills that automate everyday knowledge work** — inbox triage, meeting notes, research, document drafting, task tracking, spreadsheet analysis, and content creation. Each skill installs in **Claude, ChatGPT, or Perplexity** in under two minutes; once installed it runs automatically when you talk to your AI tool in plain language.
+
+This repository is the official companion to the book *[AI for Everyday Automation: 7 AI Workflows to Save Hours at Work Every Week](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)* by **[Dipankar Sarkar](https://www.dipankar.name)** (Packt Publishing). It contains every workflow from the book, packaged as installable skills.
+
+📕 **[Get the book on Amazon](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)** · ✍️ **[About the author](https://www.dipankar.name)** · 📖 **[Documentation](docs/README.md)** · 🚀 **[Getting Started](docs/getting-started.md)** · ❓ **[FAQ](docs/faq.md)**
 
 > **No technical knowledge required.** If you can download a file and click "upload," you can install these skills.
+
+## Contents
+
+- [What Are AI Skills?](#what-are-skills)
+- [Getting Started (2 Minutes Per Skill)](#getting-started-2-minutes-per-skill)
+- [What Each Skill Does](#what-each-skill-does)
+- [How the Skills Work Together](#how-the-skills-work-together)
+- [Your First Week: Day by Day](#your-first-week-day-by-day)
+- [Your Weekly Rhythm](#your-weekly-rhythm)
+- [Frequently Asked Questions](#frequently-asked-questions)
+- [About the Book](#about-the-book)
+- [About the Author](#about-the-author)
+- [Documentation](docs/README.md)
 
 ---
 
@@ -98,16 +119,18 @@ Here is a quick overview of all 10 skills, which chapter of the book they corres
 
 | # | Skill | Book Chapter | What it does | Say something like... |
 |---|-------|-------------|-------------|----------------------|
-| 01 | Audit, Arm, Go | Ch 1 | Identifies which tasks to automate, helps set up your AI tools | *"Help me figure out what to automate"* |
-| 02 | Your First AI Win | Ch 2 | Guided walkthrough for your first AI task | *"Help me try AI on a real task"* |
-| 03 | Inbox Zero | Ch 3 | Reads, sorts, drafts, and sends email via Gmail | *"Check my email"* |
-| 04 | Meetings | Ch 4 | Morning briefs, meeting summaries, action items, task creation | *"What meetings do I have today?"* |
-| 05 | Research | Ch 5 | Sourced research briefs using web search + your documents | *"Research the market for X"* |
-| 06 | First Drafts | Ch 6 | Writes reports, proposals, memos from your meeting notes and data | *"Write my weekly status report"* |
-| 07 | Task Extraction | Ch 7 | Finds hidden tasks in meetings, emails, documents and tracks them | *"What did I commit to this week?"* |
-| 08 | Data Analysis | Ch 8 | Cleans, charts, and summarises spreadsheets in plain English | *"Analyse this spreadsheet"* |
-| 09 | Content | Ch 9 | Turns one update into LinkedIn posts, announcements, client emails | *"Write a LinkedIn post about this"* |
-| 10 | Automated Week | Ch 10 | Runs your full Monday-to-Friday system | *"Good morning" (on Monday)* |
+| 01 | [Audit, Arm, Go](docs/skills/01-audit-arm-go.md) | Ch 1 | Identifies which tasks to automate, helps set up your AI tools | *"Help me figure out what to automate"* |
+| 02 | [Your First AI Win](docs/skills/02-first-ai-win.md) | Ch 2 | Guided walkthrough for your first AI task | *"Help me try AI on a real task"* |
+| 03 | [Inbox Zero](docs/skills/03-inbox-zero.md) | Ch 3 | Reads, sorts, drafts, and sends email via Gmail | *"Check my email"* |
+| 04 | [Meetings](docs/skills/04-meetings.md) | Ch 4 | Morning briefs, meeting summaries, action items, task creation | *"What meetings do I have today?"* |
+| 05 | [Research](docs/skills/05-research.md) | Ch 5 | Sourced research briefs using web search + your documents | *"Research the market for X"* |
+| 06 | [First Drafts](docs/skills/06-first-drafts.md) | Ch 6 | Writes reports, proposals, memos from your meeting notes and data | *"Write my weekly status report"* |
+| 07 | [Task Extraction](docs/skills/07-task-extraction.md) | Ch 7 | Finds hidden tasks in meetings, emails, documents and tracks them | *"What did I commit to this week?"* |
+| 08 | [Data Analysis](docs/skills/08-data-analysis.md) | Ch 8 | Cleans, charts, and summarises spreadsheets in plain English | *"Analyse this spreadsheet"* |
+| 09 | [Content](docs/skills/09-content-on-demand.md) | Ch 9 | Turns one update into LinkedIn posts, announcements, client emails | *"Write a LinkedIn post about this"* |
+| 10 | [Automated Week](docs/skills/10-automated-week.md) | Ch 10 | Runs your full Monday-to-Friday system | *"Good morning" (on Monday)* |
+
+> 📖 Each skill has a dedicated page with example prompts and integrations in **[docs/skills/](docs/README.md)**.
 
 ---
 
@@ -291,6 +314,13 @@ The `description` field in the YAML frontmatter at the top of each SKILL.md cont
 ai-for-everyday-automation/
 ├── README.md                          ← You are here
 ├── LICENSE
+├── docs/                              ← Public documentation (skill pages, FAQ, guides)
+│   ├── README.md                      ← Documentation index
+│   ├── getting-started.md
+│   ├── faq.md
+│   ├── about-the-book.md
+│   ├── about-the-author.md
+│   └── skills/                        ← One page per skill
 ├── scripts/
 │   └── build-zips.sh                  ← Rebuilds ZIPs after editing skills
 ├── dist/                              ← Ready-to-upload ZIP files
@@ -333,10 +363,24 @@ ai-for-everyday-automation/
 
 ---
 
+## About the Book
+
+These skills accompany ***[AI for Everyday Automation: 7 AI Workflows to Save Hours at Work Every Week](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)*** by **[Dipankar Sarkar](https://www.dipankar.name)**, published by **Packt Publishing** (ISBN-13 9781808089817).
+
+The book is a practical, non-technical guide to automating the repetitive knowledge work that fills a normal work week — email, meetings, research, writing, tasks, data, and content — using AI tools like Claude, ChatGPT, and Perplexity. Most readers save **8–12 hours in their first full week**.
+
+📕 **[Buy the book on Amazon →](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)** · 📖 [Read more about the book](docs/about-the-book.md)
+
+## About the Author
+
+**[Dipankar Sarkar](https://www.dipankar.name)** is an engineering leader and AI architect with 18+ years of experience building scalable systems for regulated industries. He is the founder of Neul Labs, a Principal AI Architect in UK fintech, and previously held leadership roles at Nykaa, Hike, Orangewood Labs, and SlideShare. He holds a B.Tech from IIT Delhi and an M.S. from Arizona State University.
+
+🔗 **[dipankar.name](https://www.dipankar.name)** · 📖 [Read the full bio](docs/about-the-author.md)
+
 ## License
 
 MIT License — free to use, modify, and share. See [LICENSE](LICENSE).
 
 ---
 
-*AI For Everyday Automation* by Dipankar Sarkar
+***[AI for Everyday Automation](https://www.amazon.com/AI-Everyday-Automation-Workflows-Hours/dp/1808089812/)*** by **[Dipankar Sarkar](https://www.dipankar.name)** · Published by Packt · [Documentation](docs/README.md) · [FAQ](docs/faq.md)
