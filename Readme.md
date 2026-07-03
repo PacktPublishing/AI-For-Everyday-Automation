@@ -83,9 +83,9 @@ By the end of the book, you’ll have a set of repeatable AI-assisted systems th
 
 <details open> 
   <summary><h2>Requirements for this book</summary>
-    You will need a free account on at least one AI tool (Claude, ChatGPT, or Perplexity). The book recommends Claude as the primary tool because of its strong reasoning, file handling, and integration capabilities, but every workflow works across tools.
-A Google account (for Gmail, Calendar, and Drive integrations) is recommended but not strictly required. If your organization uses Microsoft 365, the workflows apply but the integration setup differs. Check the Appendix for guidance.
-Paid tiers are helpful but not necessary. You can follow every workflow using free tiers. Upgrading to Claude Pro or ChatGPT Plus removes friction (higher limits, file uploads, more integrations) but is not required to learn or use the workflows.
+    <li>You will need a free account on at least one AI tool (Claude, ChatGPT, or Perplexity). The book recommends Claude as the primary tool because of its strong reasoning, file handling, and integration capabilities, but every workflow works across tools.</li>
+<li>A Google account (for Gmail, Calendar, and Drive integrations) is recommended but not strictly required. If your organization uses Microsoft 365, the workflows apply but the integration setup differs. Check the Appendix for guidance.</li>
+<li>Paid tiers are helpful but not necessary. You can follow every workflow using free tiers. Upgrading to Claude Pro or ChatGPT Plus removes friction (higher limits, file uploads, more integrations) but is not required to learn or use the workflows.</li>
   </details>
     
 
