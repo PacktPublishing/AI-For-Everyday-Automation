@@ -11,8 +11,6 @@ AI for Everyday Automation, First Edition</h1>
 Dipankar Sarkar</p>
 
 <p align="center">
-   <a href="" alt="Discord" title="Learn more on the Discord server"><img width="32px" src="https://cliply.co/wp-content/uploads/2021/08/372108630_DISCORD_LOGO_400.gif"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://packt.link/free-ebook/9781808089817"><img width="32px" alt="Free PDF" title="Free PDF" src="https://cdn-icons-png.flaticon.com/512/4726/4726010.png"/></a>
  &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://packt.link/gbp/9781808089817"><img width="32px" alt="Graphic Bundle" title="Graphic Bundle" src="https://cdn-icons-png.flaticon.com/512/2659/2659360.png"/></a>
@@ -85,7 +83,9 @@ By the end of the book, you’ll have a set of repeatable AI-assisted systems th
 
 <details open> 
   <summary><h2>Requirements for this book</summary>
-To be filled
+    You will need a free account on at least one AI tool (Claude, ChatGPT, or Perplexity). The book recommends Claude as the primary tool because of its strong reasoning, file handling, and integration capabilities, but every workflow works across tools.
+A Google account (for Gmail, Calendar, and Drive integrations) is recommended but not strictly required. If your organization uses Microsoft 365, the workflows apply but the integration setup differs. Check the Appendix for guidance.
+Paid tiers are helpful but not necessary. You can follow every workflow using free tiers. Upgrading to Claude Pro or ChatGPT Plus removes friction (higher limits, file uploads, more integrations) but is not required to learn or use the workflows.
   </details>
     
 
