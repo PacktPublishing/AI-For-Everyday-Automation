@@ -102,11 +102,11 @@ _Dipankar Sarkar_ Dipankar Sarkar is an AI architect and technology leader with 
   <summary><h2>Other Related Books</h2></summary>
 <ul>
 
-  <li><a href="https://www.packtpub.com/en-us/product/workflow-automation-with-microsoft-power-automate-third-edition/9781836649632">Workflow Automation with Microsoft Power Automate, Third Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-in/product/workflow-automation-with-microsoft-power-automate-9781836649625">Workflow Automation with Microsoft Power Automate, Third Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/practical-generative-ai-with-chatgpt-second-edition/9781836647850">Practical Generative AI with ChatGPT, Second Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-in/product/practical-generative-ai-with-chatgpt-9781836647843">Practical Generative AI with ChatGPT, Second Edition</a></li>
 
-  <li><a href="https://www.packtpub.com/en-us/product/the-power-platform-playbook-for-digital-transformation-first-edition/9781805121398">The Power Platform Playbook for Digital Transformation, First Edition</a></li>
+  <li><a href="https://www.packtpub.com/en-in/product/the-power-platform-playbook-for-digital-transformation-9781805124320">The Power Platform Playbook for Digital Transformation, First Edition</a></li>
  
 </ul>
 
